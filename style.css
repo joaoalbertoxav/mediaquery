@@ -1,0 +1,77 @@
+@media only screen and (min-width:400px) and (max-width:700px){
+
+    *{
+        margin: 0%;
+        padding: 0%;
+    }
+    
+    .logo{
+        background-color: white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    body{
+        background-color:#A695BF
+    }
+
+    .div1{
+        padding: 1%;
+        background-color: white;
+        justify-content: center;
+        margin-top: 50px;
+        margin-left: 200px;
+        margin-right: 200px;
+    }
+
+    #id1{
+        font-family: "Inconsolata", monospace;
+        
+    }
+
+    p{
+        font-family: "Montserrat", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: weight;
+        font-style: normal;
+        text-align: center;
+    }
+
+    label{
+        margin-left: 2vw;
+        font-style: normal;
+    }
+
+    .esqueci{
+        text-align: center;
+    }
+
+    a{
+
+        color: #0F0E11;
+    }
+
+    input{
+        background-color: #E3E3E4;
+        border: none;
+        margin-left: 2vw;
+        width: 90%;
+        height: 6vh;
+    }
+
+    button{
+        background-color: #F11356;
+        color: white;
+        border: none;
+        margin-left: 2vw;
+        width: 90%;
+        height: 6%;
+    }
+
+    #img{
+        display: flex;
+        justify-content: center;
+        text-align: center;
+    }
+}
